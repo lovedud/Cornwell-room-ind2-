@@ -1,0 +1,20 @@
+D:\MEXMAT\course4_1\КГ\Какой-то чувак\MMCS_332\Individual2\bin\Debug\Individual2.exe.config
+D:\MEXMAT\course4_1\КГ\Какой-то чувак\MMCS_332\Individual2\bin\Debug\Individual2.exe
+D:\MEXMAT\course4_1\КГ\Какой-то чувак\MMCS_332\Individual2\bin\Debug\Individual2.pdb
+D:\MEXMAT\course4_1\КГ\Какой-то чувак\MMCS_332\Individual2\obj\Debug\Individual2.csprojAssemblyReference.cache
+D:\MEXMAT\course4_1\КГ\Какой-то чувак\MMCS_332\Individual2\obj\Debug\Individual2.Form1.resources
+D:\MEXMAT\course4_1\КГ\Какой-то чувак\MMCS_332\Individual2\obj\Debug\Individual2.Properties.Resources.resources
+D:\MEXMAT\course4_1\КГ\Какой-то чувак\MMCS_332\Individual2\obj\Debug\Individual2.csproj.GenerateResource.cache
+D:\MEXMAT\course4_1\КГ\Какой-то чувак\MMCS_332\Individual2\obj\Debug\Individual2.csproj.CoreCompileInputs.cache
+D:\MEXMAT\course4_1\КГ\Какой-то чувак\MMCS_332\Individual2\obj\Debug\Individual2.exe
+D:\MEXMAT\course4_1\КГ\Какой-то чувак\MMCS_332\Individual2\obj\Debug\Individual2.pdb
+D:\MEXMAT\course4_1\КГ\mine\индива2\Individual2\bin\Debug\Individual2.exe.config
+D:\MEXMAT\course4_1\КГ\mine\индива2\Individual2\bin\Debug\Individual2.exe
+D:\MEXMAT\course4_1\КГ\mine\индива2\Individual2\bin\Debug\Individual2.pdb
+D:\MEXMAT\course4_1\КГ\mine\индива2\Individual2\obj\Debug\Individual2.csprojAssemblyReference.cache
+D:\MEXMAT\course4_1\КГ\mine\индива2\Individual2\obj\Debug\Individual2.Form1.resources
+D:\MEXMAT\course4_1\КГ\mine\индива2\Individual2\obj\Debug\Individual2.Properties.Resources.resources
+D:\MEXMAT\course4_1\КГ\mine\индива2\Individual2\obj\Debug\Individual2.csproj.GenerateResource.cache
+D:\MEXMAT\course4_1\КГ\mine\индива2\Individual2\obj\Debug\Individual2.csproj.CoreCompileInputs.cache
+D:\MEXMAT\course4_1\КГ\mine\индива2\Individual2\obj\Debug\Individual2.exe
+D:\MEXMAT\course4_1\КГ\mine\индива2\Individual2\obj\Debug\Individual2.pdb
